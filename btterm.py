@@ -9,7 +9,7 @@ def imprime(tab):
                     print(tab[i][j][0], end=" | ")
                 except TypeError:
                     print(' ', end=" | ")
-            print("\n")
+            print()
 
 p = Partida()
 imprime(p.jogar())
