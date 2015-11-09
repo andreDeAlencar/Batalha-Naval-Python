@@ -19,7 +19,7 @@ def imprime(tab, pontos, tiros, ptab):
         print('Hidro-aviões:\t', ptab.hidros)
         print('Cruzadores:\t', ptab.cruzadores)
         print('Couraçados:\t', ptab.couracados)
-
+ 
 def imprimePF(pontos, tiros, tempo, ptab):
         print('\nPontuação final: ', pontos)
         print('Tiros restantes: ', tiros)
