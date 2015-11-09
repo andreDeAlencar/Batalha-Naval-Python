@@ -24,7 +24,7 @@ class Partida():
             if self.tabuleiro.matriz[x][y][0] != 'A':
                 self.pontos += 1
             return True
-        
+         
 
     def finaliza(self):
         if self.tabuleiro.fim() or self.tiros == 0:
