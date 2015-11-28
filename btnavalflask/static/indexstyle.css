@@ -1,0 +1,13 @@
+body{
+    background-color: skyblue
+}
+button{
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    left: 40%;
+    right:60%;
+    top: 40%;
+    bottom: 60%;
+    background-color: deepskyblue
+}
