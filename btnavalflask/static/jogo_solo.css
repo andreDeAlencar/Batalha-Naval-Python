@@ -1,0 +1,15 @@
+td{
+	width: 22px;
+	height: 22px;
+	cursor:pointer;
+}
+
+p{
+    display:inline
+}
+
+#div1{
+    width: 424px;
+    height: 200px;
+    text-align: left
+}
